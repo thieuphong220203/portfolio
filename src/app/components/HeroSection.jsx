@@ -34,7 +34,7 @@ const HeroSection = () => {
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
             {/* I am a senior student at <b>Ton Duc Thang</b> University, specializing in web development. With a solid foundation in backend technologies, database design, SOLID principles, and algorithms, I am currently looking for an internship opportunity to further develop my skills and gain real-world experience. */ }
-            I am a senior student at <b>Ton Duc Thang</b>, specializing in web development.
+            I am a senior student at <b>Ton Duc Thang</b> University, specializing in web development.
           </p>
           <div>
             <Link
